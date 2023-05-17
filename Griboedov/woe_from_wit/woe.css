@@ -77,3 +77,7 @@
 .slider_auto img {
     margin-right: 50px; 
 }
+#woe_support__id {
+    top: 50px;
+}
+.block_back_griboed {position: relative; top: 200px; left:  2200px;}

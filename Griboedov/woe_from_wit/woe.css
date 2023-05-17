@@ -1,0 +1,71 @@
+#foto_id {
+    font-family: 'Bodoni';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 53px;
+    text-align: center;
+    color: #000000;
+    border-bottom: 3px solid #989A99;
+    width: 605px;
+    padding-bottom: 50px;
+}
+
+.container {
+    position: relative;
+}
+
+.slider_block {
+    position: relative;
+    left: 600px;
+    width: 600px;
+}
+
+.slider {
+    margin-top: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%);
+    width: 400px;
+    height: 196px;
+    text-align: center;
+}
+
+.slide_container {
+    position: relative;
+    height: 945px;
+    overflow: hidden;
+}
+
+.slide_container_btn button {
+    font-family: 'Bodoni';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 123px;
+    line-height: 155px;
+    text-align: center;
+    color: #000000;
+}
+
+.slide_container_btn {
+    position: relative;
+    transition: all ease 1s;
+    top: 0;
+}
+
+.slider button {
+    width: 379px;
+    height: 196px;
+    margin-bottom: 50px;
+    filter: drop-shadow(3px 14px 14px rgba(0, 0, 0, 0.25));
+    cursor: pointer;
+}
+
+.slider_next {
+    margin-top: 850px;
+    margin-left: 220px;
+    width: 400px;
+    cursor: pointer;
+}

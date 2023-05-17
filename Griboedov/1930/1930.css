@@ -1,0 +1,19 @@
+.block_photo_noname {
+    position: absolute;
+    top: 650px;
+    right: 650px;
+}
+.block_photo_noname img {
+    width: 1620px;
+    height: 855px;
+}
+.block_photo_noname h3 {
+    font-family: 'Bodoni';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 44px;
+    text-align: center;
+    color: #000000;
+    margin-top: 250px;
+}

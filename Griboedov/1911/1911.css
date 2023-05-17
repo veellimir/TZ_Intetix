@@ -1,0 +1,17 @@
+.block_photo_sofia {
+    position: absolute;
+    right: 1100px;
+    top: 630px;
+}
+
+.block_photo_sofia h3 {
+    font-family: 'Bodoni';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 44px;
+    text-align: center;
+    color: #000000;
+    margin-top: 30px;
+}
+#one {background-color: #C9C9C9;}

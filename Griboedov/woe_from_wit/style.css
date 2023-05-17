@@ -14,7 +14,7 @@
   display: flex;
   width: 2021px;
   height: 520px;
-  animation: sliderAnim 30s infinite ease;
+  animation: sliderAnim 100s infinite ease;
 }
 .slide_all {
   margin: 0;
@@ -46,7 +46,7 @@
     left: -2200px;
   }
   70% {
-    left: -2400px;
+    left: -2200px;
   }
   80% {
     left: -1600px;

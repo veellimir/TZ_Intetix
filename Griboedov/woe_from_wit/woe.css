@@ -13,8 +13,13 @@
 
 .container {
     position: relative;
+    width: 1200px;
 }
-
+.woe_from_txt {
+    position: absolute;
+    top: 400px;
+    right: 800px;
+}
 .slider_block {
     position: relative;
     left: 600px;
@@ -68,4 +73,7 @@
     margin-left: 220px;
     width: 400px;
     cursor: pointer;
+}
+.slider_auto img {
+    margin-right: 50px; 
 }

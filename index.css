@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html {height: 2175px}
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:wght@400;500;600;700&display=swap');
+/* Фамилия автора */
+h1 {
+    font-family: 'Bodoni Moda';
+    font-weight: 400;
+    font-size: 111px;
+    text-transform: uppercase;
+    position: relative;
+    right: 25%;
+    top: 160px;
+    transform: translate(-50%);
+}
+/* При поддержки */
+h2 {font-family: 'Bodoni';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 39px;
+    text-align: center; 
+    color: #2355D7;
+    white-space: nowrap;
+}
+/* Текст больших для кнопок */
+p {
+    font-family: 'Bodoni';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 72px;
+    line-height: 91px;
+    text-align: center;
+    color: #181E21;
+    width: 1062px;
+}
+button {
+    width: 1062px; height: 165px; 
+    background-color: #EFC26D;
+    border: none;
+    border-radius: 50px;
+    color: #181E21;
+    font-weight: 500;
+    font-size: 72px;
+    cursor: pointer;
+}
+
+
+.all_foon {width: 3916px; height: 2176px;}
+main {position: absolute; top: 0; left: 0; width: 3840px; height: 2175px;}
+.block_logo { display: flex; width: 2000px;}
+.logo {position: relative; top: 37px; left: 471px; height:374px; width: 877px;}
+.logo2 {position: relative; left: 550px;}
+.block_author {position: relative; left: 1500px; top: 150px;}
+.author {display: flex; align-items: center; height: 200px;}
+#author_img {z-index: 2;}
+#btn {margin-left: -150px;}
+#author_author {position: relative; left: 400px;}
+#author__author {position: relative; top: -400px;}
+.btn_left {position: relative; left: 100px;}
+.support {
+    width: 400px;
+    position: relative; 
+    left: 470px; top: 360px;
+    display: flex;
+    flex-wrap: nowrap;
+}
+.support img {margin-left: 80px;}
+.qr {
+    position: absolute;
+    right: 400px;
+    top: 1960px;
+}
+.qr img {  
+    width: 150px;
+    height: 150px;
+}

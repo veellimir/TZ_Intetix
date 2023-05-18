@@ -3,6 +3,7 @@
     width: 1060px;
     position: relative;
     left: 450px;
+    top: 150px;
 }
 .block_button button {
     margin-bottom: 100px;
@@ -10,14 +11,15 @@
     filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
     background-color: #FEF5E0;
 }
-.block_button button:hover {background-color: #EFC26D;}
 .text_gridaedov {
     position: absolute;
     top: 450px;
     right: 450px;
 }
+#main_page {font-size: 40px;}
+#woe_btn {background-color: #EFC26D;}
 #rectangle_tonner_white {position: absolute; top: 1000px; right: 50px;}
-#support__id {top: 850px;}
+#support__id {top: 760px;}
 .back {
     background-color: transparent;
     border: 5px solid #C9C9C9;

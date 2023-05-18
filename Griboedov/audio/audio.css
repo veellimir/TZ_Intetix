@@ -1,0 +1,23 @@
+.audio {color: #181e2170;}
+.block_audio {
+    position: absolute;
+    top: 580px;
+    left: 1450px;
+    width: 1956px;
+    display: flex;
+    flex-wrap: wrap;
+}
+#block_audio_two {
+    margin-top: 100px;
+}
+#block_back_griboed_top {
+    top: 760px;
+}
+#woe_support__id_top {
+    top: 640px;
+}
+.headphones {
+    position: absolute;
+    right: 100px;
+    top: 1600px;
+}
